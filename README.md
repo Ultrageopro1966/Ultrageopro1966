@@ -16,4 +16,5 @@ $$
 
 ![your mother](https://best-of-news.ru/wp-content/uploads/2015/04/Unikalnii-bomzhi.jpg)
 
-$$\centering ⬆️𝓨𝓸𝓾𝓻 𝓶𝓸𝓶 ⬆️$$
+  
+<p align="center">⬆️𝓨𝓸𝓾𝓻 𝓶𝓸𝓶 ⬆️</p>
