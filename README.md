@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning your mother
 - 💞️ I’m looking to collaborate on your mom
 - 📫 How to reach me with your mom 
-- I was fucking your mom yesterday, but she died 🤠
+- 🤠 I was fucking your mom yesterday, but she died
 
 $$\begin{cases}
 x=your\ mom
