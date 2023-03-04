@@ -1,20 +1,2 @@
-- 👋 Hi, I’m @Ultrageopro1966
-- 👀 I’m interested in your mom
-- 🌱 I’m currently learning your mother
-- 💞️ I’m looking to collaborate on your mom
-- 📫 How to reach me with your mom 
-- 🤠 I was fucking your mom yesterday, but she died
-
-$$\begin{cases}
-x=your\ mom
-\\
-y = I\ fuck
-\\
-y+x=?
-\end{cases}
-$$
-
-![your mother](https://best-of-news.ru/wp-content/uploads/2015/04/Unikalnii-bomzhi.jpg)
-
-  
-<p align="center">⬆️𝓨𝓸𝓾𝓻 𝓶𝓸𝓶 ⬆️</p>
+<img src = 'https://media.tenor.com/PeOnykXrNoEAAAAS/raymix-el%C3%ABctr%C3%B8m%C3%ABm%C3%ABs-dance.gif' style = "width: 500px; display:block; margin-left:auto; margin-right:auto;"> 
+<p style = "text-align: center; font-size:50px">↑ THIS IS ME ↑</p>
