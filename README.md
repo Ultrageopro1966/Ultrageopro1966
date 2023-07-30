@@ -23,7 +23,6 @@ I am a neural network developer and mathematician from Russia.
 - 📚 **Calculus and Linear Algebra.**
 - 🧠 **Deep Learning/Neural Networks**
 - 👁️ **Computer Vision**
-- 📱**Mobile Dev**
 - 🔭 I’m currently working on [**Diffusion Model**](https://huggingface.co/blog/annotated-diffusion)
 - 🌱 I’m currently learning **ML/DL, calculus, mobile development**
 - 👯 I am a member of the [**CHFTM**](https://github.com/chftm) organization
@@ -31,9 +30,6 @@ I am a neural network developer and mathematician from Russia.
 ****
 ### ⚒️ Languages and Tools
 <div>
-  <a href="https://dart.dev/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  </a>
   <a href="https://isocpp.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
@@ -46,9 +42,6 @@ I am a neural network developer and mathematician from Russia.
   <a href="https://numpy.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://flutter.dev/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  </a>  
   <a href="https://opencv.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>  
@@ -63,17 +56,11 @@ I am a neural network developer and mathematician from Russia.
   <a href="https://www.android.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.putty.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  </a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
   <a href="https://www.kaggle.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://google.com">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
 </div>
 
