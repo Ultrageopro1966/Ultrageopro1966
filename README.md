@@ -50,8 +50,8 @@ I am a neural network developer and mathematician from Russia.
   <a href="https://code.visualstudio.com">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.microsoft.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <a href="https://ubuntu.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
   <a href="https://www.android.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
