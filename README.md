@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3K1gVYCCDcqoaWznv4/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="https://t.me/UltraGeoPro">
+  <a href="https://t.me/UlraGeoDev">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://github.com/Ultrageopro1966">
