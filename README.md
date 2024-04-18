@@ -12,7 +12,7 @@
   </a>
   </div>
   <h3>
-  [UltraGeoPro](https://ultrageopro.ru)
+  <a href="https://ultrageopro.ru">UltraGeoPro</a>
 </h3>
 </div>
 
