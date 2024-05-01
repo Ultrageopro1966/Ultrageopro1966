@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3K1gVYCCDcqoaWznv4/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="https://t.me/UlraGeoDev">
+  <a href="https://t.me/UltraGeoPro">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://github.com/Ultrageopro1966">
@@ -12,7 +12,7 @@
   </a>
   </div>
   <h3>
-  <a href="https://ultrageopro.ru">UltraGeoPro</a>
+  UltraGeoPro
 </h3>
 </div>
 
@@ -24,9 +24,10 @@ I am a neural network developer and mathematician from Russia.
 - 🧠 **Deep Learning/Neural Networks**
 - 👁️ **Computer Vision**
 - 🔭 I’m currently working on [**Diffusion Model**](https://huggingface.co/blog/annotated-diffusion)
-- 🌱 I’m currently learning **ML/DL, calculus, mobile development**
+- 🌱 I’m currently learning **ML/DL, calculus, backend development**
 - 👯 I am a member of the [**CHFTM**](https://github.com/chftm) organization
-- 📃 Latest [**repository**](https://github.com/UltraGeoDev/Telegram-Backups)
+- 🤖 [**Contexto Game Bot**](https://t.me/contexto_gamee_bot) dev
+- 📃 Latest [**repository**](https://github.com/Ultrageopro1966/Speech2Note)
 ****
 ### ⚒️ Languages and Tools
 <div>
