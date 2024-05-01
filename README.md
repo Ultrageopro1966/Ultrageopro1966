@@ -27,7 +27,7 @@ I am a neural network developer and mathematician from Russia.
 - 🌱 I’m currently learning **ML/DL, calculus, backend development**
 - 👯 I am a member of the [**CHFTM**](https://github.com/chftm) organization
 - 🤖 [**Contexto Game Bot**](https://t.me/contexto_gamee_bot) dev
-- 📃 Latest [**repository**](https://github.com/Ultrageopro1966/Speech2Note)
+- 📃 Latest [**repository**](https://github.com/UltraGeoDev/Telegram-Backups)
 ****
 ### ⚒️ Languages and Tools
 <div>
