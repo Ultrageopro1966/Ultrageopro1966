@@ -12,7 +12,8 @@
   </a>
   </div>
   <h3>
-  UltraGeoPro
+  <p>UltraGeoPro</p>
+  <a href="https://wakatime.com/@018ec81e-ba2a-4cab-a046-e026e59600c3"><img src="https://wakatime.com/badge/user/018ec81e-ba2a-4cab-a046-e026e59600c3.svg" alt="Total time coded since Apr 10 2024" /></a>
 </h3>
 </div>
 
